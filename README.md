@@ -18,4 +18,23 @@ This framework has the follow features:
   - Pandas
   - Opencv (cv2)
 
-## 2.2 Code-Preperation
+### 2.2 Code-Preparing
+```bash
+git clone https://github.com/harshatejas/PyTorch_custom_object_detection.git
+```
+
+## 3. Dataset
+This dataset contains images of playing cards.
+
+The cards_dataset containds train folder, valication folder, train.csv and validation.csv
+```bash
+cards_datset/
+ train/
+   [xxx].jpg
+   ...
+ validation/
+   [xxx].jpg
+   ...
+ train.csv
+ validation.csv
+```
