@@ -38,3 +38,16 @@ cards_datset/
  train.csv
  validation.csv
 ```
+
+## 4. Train
+Modify Hyperparameters items in train.py
+```bash
+train.py
+```
+## 5. Test
+predict.py is designed to run predictions on the images in validation folder
+
+Change the filename and saved_model in predict.py
+```bash
+predict.py
+```
