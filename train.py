@@ -188,4 +188,4 @@ if __name__ == '__main__':
 		os.mkdir(output_dir)
 
 	# Save the model state	
-	torch.save(model.state_dict(), "saved_model/model")
+	torch.save(model.state_dict(), output_dir + "/model")
