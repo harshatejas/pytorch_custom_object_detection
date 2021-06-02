@@ -20,7 +20,7 @@ This framework has the follow features:
 
 ### 2.2 Code-Preparing
 ```bash
-git clone https://github.com/harshatejas/PyTorch_custom_object_detection.git
+git clone https://github.com/harshatejas/pytorch_custom_object_detection.git
 ```
 
 ## 3. Dataset
