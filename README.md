@@ -51,5 +51,12 @@ Change the filename and saved_model in predict.py
 ```bash
 predict.py
 ```
-## 6. Demo
+## 6. Predicted Images
+Here are some sample output images predicted by saved_model/model
+
 ![img](images/image1.jpg)
+
+![img](images/image2.jpg)
+
+![img](images/image3.jpg)
+
