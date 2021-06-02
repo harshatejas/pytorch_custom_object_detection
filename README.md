@@ -40,7 +40,7 @@ cards_datset/
 ```
 
 ## 4. Train
-Modify Hyperparameters items in train.py
+Modify Hyperparameters in train.py
 ```bash
 train.py
 ```
