@@ -51,3 +51,5 @@ Change the filename and saved_model in predict.py
 ```bash
 predict.py
 ```
+## 6. Demo
+![img](images/image1.jpg)
